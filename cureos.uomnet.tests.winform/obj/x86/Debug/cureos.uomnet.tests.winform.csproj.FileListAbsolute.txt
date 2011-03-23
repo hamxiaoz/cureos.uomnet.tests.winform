@@ -1,0 +1,10 @@
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\bin\Debug\cureos.uomnet.tests.winform.exe
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\bin\Debug\cureos.uomnet.tests.winform.pdb
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\bin\Debug\Cureos.Measures.dll
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\bin\Debug\Cureos.Measures.pdb
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\obj\x86\Debug\cureos.uomnet.tests.winform.Properties.Resources.resources
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\obj\x86\Debug\cureos.uomnet.tests.winform.exe
+D:\ZtestAPP\Math\Unit Conversion\cureos.uomnet.tests.winform\cureos.uomnet.tests.winform\obj\x86\Debug\cureos.uomnet.tests.winform.pdb

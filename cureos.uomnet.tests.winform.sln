@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cureos.uomnet.tests.winform", "cureos.uomnet.tests.winform\cureos.uomnet.tests.winform.csproj", "{3C53E7E8-A987-49E7-AE44-C923516EFFD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C53E7E8-A987-49E7-AE44-C923516EFFD5}.Debug|x86.ActiveCfg = Debug|x86
+		{3C53E7E8-A987-49E7-AE44-C923516EFFD5}.Debug|x86.Build.0 = Debug|x86
+		{3C53E7E8-A987-49E7-AE44-C923516EFFD5}.Release|x86.ActiveCfg = Release|x86
+		{3C53E7E8-A987-49E7-AE44-C923516EFFD5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
